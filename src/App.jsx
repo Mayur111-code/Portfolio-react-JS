@@ -12,7 +12,7 @@ import Footer from "./Components/Footer/Footer";
 function App() {
   return (
     <Router>
-      {/* Navbar stays on top always */}
+ 
       <Navbar />
 
       <Routes>
@@ -23,7 +23,7 @@ function App() {
         <Route path="/contact" element={<Contact />} />
       </Routes>
 
-      {/* Footer stays always at the bottom */}
+      
       <Footer />
     </Router>
   );

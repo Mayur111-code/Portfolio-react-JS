@@ -293,7 +293,7 @@ const Navbar = () => {
             { id: "home", label: "Home", path: "/" },
             { id: "about", label: "About Me", path: "/about" },
             { id: "services", label: "Services", path: "/services" },
-            { id: "work", label: "Portfolio", path: "/work" },
+            { id: "work", label: "Work", path: "/work" },
             { id: "contact", label: "Contact", path: "/contact" },
           ].map((item) => (
             <li key={item.id} className="relative">
