@@ -14,7 +14,7 @@ const Mywork = () => {
                 {/* Title Section */}
                 <div className="text-center mb-16">
                     <h1 className="text-4xl lg:text-5xl font-bold text-gray-900 mb-4">
-                        My Portfolio
+                        My Work
                     </h1>
                     <p className="text-gray-600 text-lg max-w-2xl mx-auto">
                         A collection of my recent projects and creative work
